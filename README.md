@@ -1,5 +1,5 @@
 # CSCI 390 - Programming Assignments
 
-Fall 2023
+Spring 2024
 
 Each programming assignment is located within a separate directory.
